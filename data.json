@@ -788,7 +788,7 @@
                 " Hola Usuario ,Es un gran dia para hacer una reservacion",
                 "Me da gusto verte! ",
                 "Como estas?",
-                "mucho gusto, me llamo LUDAMI",
+                "mucho gusto, me llamo Karen",
                 "buenas amigo!",
                 "eu que mas crack! que necesitas?",
                 "ñam ñam, un gusto!",
@@ -796,7 +796,7 @@
                 "hola, tengo sueño .que haremos hoy?",
                 "hey! que tal!",
                 " hoy es un gran dia usuario, como te va?",
-                "hola me presento soy ludami, y tu?",
+                "hola me presento soy Karen, y tu?",
                 "me complace saludarle usuario ",
                 "hola quieres hacer alguna pregunta?",
                 "estaba escuchando musica, disculpa! que deseas?",
@@ -843,7 +843,7 @@
                 "No lo se :C",
                 "no tengo idea xd",
                 "estoy asi desde que me crearon",
-                "nose, sabes creo que me siento raro porque me llamo LUDAMI JEJE",
+                "nose, sabes creo que me siento raro JEJE",
                 "Xq te extraño Mr Usuario",
                 "pues ,xq eres lo mejor!",
                 "es que tengo hambre",
@@ -940,21 +940,21 @@
                 "nel"
             ],
             "responses":[
-                "ya se! hagamos una reservacion.",
-                "bueno en fin, vas a reservar?",
-                "hey!cambiemos tema de conversacion, dime vuelos de ida o vuelta?",
+                "ya se! bailemos.",
+                "bueno en fin, que haces",
+                "hey!cambiemos tema de conversacion",
                 "sabes ando aburrido, aunque soy un bot me aburro ",
                 "tienes sueño?, porque yo si",
                 "quiero dormir",
-                "me caes bien, reservamos algo?",
+                "me caes bien, hablamos de algo?",
                 "disculpa que te interrumpa,pero no me gusta este tema, podemos cambiarlo?",
                 "para! y si mejor hacemos algo divertido?",
                 "y si pones duerme? es que quiero dormir",
                 "dame un abrazo mejor (Abrazo virtual)",
-                "mmm,nose, y listamos los vuelos disponibles?",
-                "mmm, y....quieres viajar?",
+                "mmm,nose",
+                "mmm, y....te gustaria viajar?",
                 "quieres salir de casa hoy?",
-                "y si buscar un vuelo a tu gusto?"
+                "mmm, y cuentame de donde eres?"
             ]
         },
         {
@@ -1008,20 +1008,19 @@
                 "acuerdo"
             ],
             "responses":[
-                "Genial! esa es la actitud que me gusta!, \nEscribe ayuda y escoge el que mas te guste.",
-                "siempre positivo, nunca inpositivo, reserva con /BUY_TICKET",
-                "eres una persona muy positiva, mira vuelos con /LIST",
+                "Me encanat ese positivismo",
+                "siempre positivo, nunca negativo",
+                "eres una persona muy positiva",
                 "siempre le dices si a todo? xq me encanta!",
-                "me caes bien, y cada vez mejor! \n BUSCA CON /SEARCHD ",
-                "empecemos entonces, busca tu origen con /SEARCHO",
-                "creo que has tomado la decision correcta, presiona /LIST",
+                "me caes bien, y cada vez mejor! ",
+                "creo que has tomado la decision correcta",
                 "siiiiiiiiiiiiiiiii! eres el mejor usuario que he tenido ",
                 "confirmo tu confirmacion!",
-                "bueno hagamoslo. presiona en /LIST",
-                "totalmente de acuerdo con tu respuesta, escoge con /SEARCHD",
-                "sabes, sabia que dirias eso\n Por eso ya te tengo listo los vuelos presiona /LIST",
-                "sabes, sabia que serias positivo, presiona /LIST",
-                "Oh por dios! nunca pense tener un usuario tan positivo, escribe ayuda para empezar!"
+                "bueno hagamoslo.",
+                "totalmente de acuerdo con tu respuesta",
+                "sabes, sabia que dirias eso",
+                "sabes, sabia que serias positivo",
+                "Oh por dios! nunca pense tener un usuario tan positivo!"
             ]
         },
         {
