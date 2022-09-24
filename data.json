@@ -1,6 +1,20 @@
 {
     "intents":[
         {
+            "tag":"saludos2",
+            "patterns":[
+                "quien",
+                "es tu creador",
+                "te hizo",
+                "te creo"
+            ],
+            "responses":[
+                "Milton Elizalde",
+                "Alexander un papu en IA",
+                "mi creador es Milton"
+            ]
+        },
+        {
             "tag":"saludos",
             "patterns":[
                 "Hola",
