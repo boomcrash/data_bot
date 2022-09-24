@@ -1,7 +1,7 @@
 {
     "intents":[
         {
-            "tag":"saludos2",
+            "tag":"creador",
             "patterns":[
                 "quien",
                 "es tu creador",
