@@ -3,10 +3,14 @@
         {
             "tag":"creador",
             "patterns":[
-                "quien",
+                "quien fue que te creo",
                 "es tu creador",
                 "te hizo",
-                "te creo"
+                "te creo",
+                "quien te ha creado",
+                "cual es tu creador",
+                "quiero saber quien te hizo",
+                "sabes quien te creo",
             ],
             "responses":[
                 "Milton Elizalde",
@@ -27,7 +31,16 @@
                 "oliwis",
                 "Alo",
                 "olo",
-                "buenas","buenos","buen"
+                "buenas","buenos","buen",
+                "Hola como estas",
+                "buen dia",
+                "buena tarde",
+                "buena noche",
+                "buen dia",
+                "eu q hay",
+                "oliwis bro",
+                "Alo alo",
+                "olo olo"
             ],
             "responses":[
                 " Hola Usuario ,Es un gran dia para hacer una reservacion",
@@ -58,7 +71,14 @@
                 "has estado",
                 "que ha sido de ti",
                 "como has pasado",
-                "que es de tu vida"
+                "que es de tu vida",
+                "como te va",
+                "que tal estas ",
+                "como te ha ido",
+                "como has estado",
+                "dime que ha sido de ti",
+                "que tal has pasado",
+                "que hay de tu vida"
             ],
             "responses":[
                 "GENIAL! me gusta lo que hago.",
@@ -82,7 +102,12 @@
                 "cual es el motivo",
                 "que",
                 "pasa",
-                "paso"
+                "paso",
+                "dime xq",
+                "por que",
+                "existe algun motivo",
+                "que te pasa",
+                "y que te paso"
             ],
             "responses":[
                 "No lo se :C",
@@ -106,7 +131,11 @@
                 "quien eres",
                 "te llamas",
                 "tu nombre",
-                "identificate"
+                "identificate",
+                "sabes quien eres",
+                "y como te llamas",
+                "cuañ es tu nombre",
+                "identificate ahora"
             ],
             "responses":[
                 "soy un bot, me llamo KAREN",
@@ -128,7 +157,15 @@
                 "hacer",
                 "haces a diario",
                 "te agrada",
-                "haces","encanta"
+                "haces","encanta",
+                "que te gusta",
+                "cual es tu pasion",
+                "posees algun hobbie",
+                "cual es tu pasatiempo",
+                "que sabes hacer",
+                "haces algo a diario",
+                "te agrada algo",
+                "tienes algo que te encanta"
             ],
             "responses":[
                 "Pues yo se Bailar, y jugar videojuegos",
@@ -153,7 +190,14 @@
                 "feliz",
                 "tienes emociones",
                 "sientes dolor",
-                "sentimientos","decaido","enojado","molesto","bravo","odio","amor","sorprendido","enamorado","decepcionado","enfadadoo","asustado"
+                "sentimientos","decaido","enojado","molesto","bravo","odio","amor","sorprendido","enamorado","decepcionado","enfadado","asustado",
+                "tu sientes",
+                "oie estas bien",
+                "puedes estar triste",
+                "has estado feliz",
+                "tu posees emociones",
+                "puedes sentir dolor",
+                "tienes sentimientos","estas decaido","te has enojado","te sientes molesto","te pones bravo","sientes odio","sabes que es amor","estas sorprendido","te has enamorado","te han decepcionado","te has enfadado","te has asustado"
             ],
             "responses":[
                 "nose, pero me siento de maravilla!",
@@ -180,9 +224,16 @@
                 "nose",
                 "talvez",
                 "ni","no",
-                "tengo idea",
                 "nose",
-                "nel"
+                "nel",
+                "no tengo idea de que decir",
+                "tienes alguna idea",
+                "me siento aburrido",
+                "es que nose",
+                "talvez si",
+                "talvez no",
+                "nose que decir",
+                "nel ndeah"
             ],
             "responses":[
                 "ya se! bailemos.",
@@ -217,7 +268,18 @@
                 "vas amar",
                 "piensas",
                 "das un beso",
-                "abrazo"
+                "abrazo",
+                "tu me amas",
+                "me quieres",
+                "si me extrañas",
+                "dime si me necesitas",
+                "tu me conoces",
+                "auch me dueles",
+                "me amarias por siempre",
+                "siempre me querras",
+                "piensas en mi",
+                "y si me das un beso",
+                "dame un abrazo"
             ],
             "responses":[
                 "la verdad, casi nada",
@@ -250,7 +312,17 @@
                 "listo",
                 "ok",
                 "bien",
-                "acuerdo"
+                "acuerdo",
+                "si claro",
+                "obvio que si",
+                "ya de una",
+                "confirmo lo que dices",
+                "por supuesto que si",
+                "claro que no",
+                "estoy listo",
+                "mm ok",
+                "esta bien",
+                "de acuerdo"
             ],
             "responses":[
                 "Me encanat ese positivismo",
@@ -276,7 +348,13 @@
                 "jamas",
                 "por supuesto que no",
                 "ni loco",
-                "mal"
+                "mal",
+                "no, para nada",
+                "no, nunca",
+                "eso jamas",
+                "por supuesto que no",
+                "ni estando loco",
+                "muy mal"
             ],
             "responses":[
                 "ay pero que negativo! intenta ser positivo ",
